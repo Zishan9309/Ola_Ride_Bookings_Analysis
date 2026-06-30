@@ -75,7 +75,7 @@ This project answers these questions through a SQL-based exploration layer and a
 ![Overview Dashboard](./Screenshots/Overview.png)
 
 **Vehicle Type Analysis**
-![Vehicle Type Analysis](./Screenshots/Vehicle Type.png)
+![Vehicle Type Analysis](./Screenshots/Vehicle_Type.png)
 
 **Revenue Analysis**
 ![Revenue Analysis](./Screenshots/Revenue.png)
