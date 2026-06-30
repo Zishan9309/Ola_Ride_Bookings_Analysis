@@ -72,19 +72,19 @@ This project answers these questions through a SQL-based exploration layer and a
 ## 📊 Dashboard Preview
 
 **Overview**
-![Overview Dashboard](./screenshots/Overview.png)
+![Overview Dashboard](./Screenshots/Overview.png)
 
 **Vehicle Type Analysis**
-![Vehicle Type Analysis](./screenshots/Vehicle Type.png)
+![Vehicle Type Analysis](./Screenshots/Vehicle Type.png)
 
 **Revenue Analysis**
-![Revenue Analysis](./screenshots/Revenue.png)
+![Revenue Analysis](./Screenshots/Revenue.png)
 
 **Cancellation Analysis**
-![Cancellation Analysis](./screenshots/Cancellation.png)
+![Cancellation Analysis](./Screenshots/Cancellation.png)
 
 **Ratings & Customer Insights**
-![Ratings Analysis](./screenshots/Ratings.png)
+![Ratings Analysis](./Screenshots/Ratings.png)
 
 ---
 
